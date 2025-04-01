@@ -15,5 +15,5 @@ def improved_average(a, b, c, d, e):
     
     return mean, median, mode
 
-mean, median, mode = improved_average(1, 2, 3, 3, 4)
-print(f"Mean: {mean}, Median: {median}, Mode: {mode}")
+result= improved_average(1, 2, 3, 3, 4)
+print(result)
